@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Saurabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/saurabh-chavan-5b27a31ab)
+[![Linkedin Badge](https://img.shields.io/badge/-Saurabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-chavan-5b27a31ab/)](https://www.linkedin.com/in/saurabh-chavan-5b27a31ab)
 [![Website Badge](https://img.shields.io/badge/WebSite-Saurabh-green)](https://www.saurabh)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Saurabh-yellow)](https://stackoverflow.com/users/21912461/saurabh-chavan)
 
@@ -21,8 +21,7 @@ Languages and Tools:
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-    </a>
-    
+    </a> 
     <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40" />
     </a>
@@ -64,15 +63,10 @@ Languages and Tools:
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-  
-    
+    </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
     </a>
-
-    
-  
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
     </a>
@@ -85,8 +79,7 @@ Languages and Tools:
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
     </a>
-   
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
